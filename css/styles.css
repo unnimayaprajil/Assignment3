@@ -5,6 +5,9 @@
     border: 0;
     box-sizing: border-box;  
 }
-h2{
-    color: #00f;
+.academy-banner{
+    background-image: url('../asset/academy-banner.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 100vh;    
 }
